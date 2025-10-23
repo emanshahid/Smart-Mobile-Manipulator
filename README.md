@@ -18,6 +18,7 @@ This project implements a **mobile manipulator system** using PyBullet physics s
 ✅ Robust gripper constraint system  
 
 ### Working Video
+[Watch the working video](./video_project.mp4)
 
 ##  System Architecture
 
@@ -47,7 +48,7 @@ This project implements a **mobile manipulator system** using PyBullet physics s
 
 ---
 
-## 📦 Dependencies & Setup
+## Dependencies & Setup
 
 ### Required Libraries
 ```python
@@ -71,7 +72,7 @@ python mobile_manipulator.py
 
 ---
 
-## 🧩 Key Components
+## Key Components
 
 ### 1. **Husky Mobile Base**
 - **Type**: Four-wheeled differential drive robot
@@ -107,7 +108,7 @@ python mobile_manipulator.py
 
 ---
 
-## 🎯 Obstacle Avoidance Algorithm
+## Obstacle Avoidance Algorithm
 
 The system uses an **Artificial Potential Field (APF)** method for obstacle avoidance. This creates virtual forces that guide the robot toward the goal while repelling it from obstacles.
 
@@ -353,7 +354,7 @@ Possible improvements:
 
 ---
 
-## 📄 License & Credits
+## License & Credits
 
 This implementation uses:
 - **PyBullet**: Physics simulation
@@ -362,7 +363,7 @@ This implementation uses:
 
 ---
 
-## 📞 Support
+## Support
 
 For questions or issues, refer to:
 - [PyBullet Documentation](https://pybullet.org)

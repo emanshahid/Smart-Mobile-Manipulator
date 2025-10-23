@@ -19,7 +19,7 @@ This project implements a **mobile manipulator system** using PyBullet physics s
 
 ### Working Video
 
-[![Watch the Working Demo](vidoe_project.mp4)](vidoe_project.mp4)
+[![Watch the Working Demo](vide0_project.gif)](video_project.gif)
 
 
 

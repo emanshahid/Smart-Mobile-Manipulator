@@ -18,7 +18,10 @@ This project implements a **mobile manipulator system** using PyBullet physics s
 ✅ Robust gripper constraint system  
 
 ### Working Video
-[Watch the working video](./video_project.mp4)
+
+[![Watch the Working Demo]()](./vidoe_project.mp4)
+
+
 
 ##  System Architecture
 
